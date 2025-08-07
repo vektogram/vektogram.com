@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Keep these
+!.gitignore
+!Dockerfile
+!captain-definition
+!.dockerignore
+
+# Keep the build output
+!dist/
+!dist/**
